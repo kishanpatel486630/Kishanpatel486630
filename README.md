@@ -1,11 +1,26 @@
 # 💫 About Me:
-Hi, I’m **Kishan Parvadiya** 👋 — a passionate **UI/UX Designer** who loves turning ideas into **intuitive, user-friendly digital experiences**.  
-I specialize in **Figma, wireframing, prototyping**, and building seamless web & mobile interfaces that balance **user needs** with **business goals**.  
+I’m Kishan Parvadiya, a passionate UI/UX Designer from Gujarat, India 🇮🇳, with a strong focus on crafting human-centered digital experiences.
+I believe great design is not just about looks — it’s about solving real problems and creating products that people truly enjoy using.
 
-🔭 Currently, I’m working as a **Product Designer at Novus Ark**, where I design end-to-end solutions — from **research & wireframes** to **high-fidelity UI and prototypes**.  
-💡 My focus: creating **accessible, scalable, and visually engaging interfaces** while collaborating with cross-functional teams.  
-✨ Beyond work, I enjoy solving problems with design, exploring **modern design systems**, and building impactful projects.  
+💡 With hands-on experience in Figma, wireframing, prototyping, and interaction design, I specialize in building clean, accessible, and user-friendly interfaces for both web and mobile applications.
 
+📌 Currently: Working as a Product Designer at Novus Ark, where I lead projects from research and low-fidelity sketches to polished prototypes and scalable design systems. My work involves close collaboration with developers and stakeholders to ensure every product is intuitive, consistent, and aligned with business goals.
+
+🚀 What I bring to the table:
+
+Strong foundation in user-centered design principles
+
+Proficiency in Figma, Canva, Sketch, and prototyping tools
+
+Experience in responsive web & mobile UI design
+
+Knowledge of design systems and modern workflows
+
+Team collaboration, adaptability, and attention to detail
+
+✨ What excites me the most: Solving challenges with creativity, exploring modern design trends, and working on projects that impact real people’s lives.
+
+🎯 My Vision: To keep growing as a designer by contributing to innovative products, learning from diverse teams, and eventually shaping digital experiences that inspire and connect people worldwide.
 ---
 
 ## 🌐 Connect With Me:
